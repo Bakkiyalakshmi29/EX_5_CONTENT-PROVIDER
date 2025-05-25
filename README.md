@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the contact name and phone number using content providers.
-Developed by: 212222220006
+Developed by: BAKKIYA LAKSHMI M
 Registeration Number : 212222220006
 */
 ```
